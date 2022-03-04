@@ -1,0 +1,42 @@
+@media only screen and (max-width: 900px) {
+  nav {
+    position: static;
+    display: block;
+    z-index: 100;
+    margin: 0 10px;
+    font-size: 1.3rem;
+  }
+}
+
+@media only screen and (max-width: 1300px) {
+  nav {
+    position: static;
+    display: block;
+    z-index: 100;
+    margin: 0 10px;
+    font-size: 1.7rem;
+  }
+}
+nav {
+    position: relative;
+    font-family: "Helvetica";
+    font-size: 2rem;
+    margin: 30px 20px;
+}
+
+#portfolio {
+  position: relative;
+  min-height: 100vh;
+}
+
+#footer {
+  position: fixed;
+  height: 50px;
+  background-color: gray;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;  
+  display: flex;
+  align-items: center;        /* Footer height */
+}
