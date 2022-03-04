@@ -1,0 +1,30 @@
+@media only screen and (max-width: 900px) {
+  nav {
+    position: static;
+    display: block;
+    z-index: 100;
+    margin: 0 10px;
+    font-size: 1.3rem;
+  }
+}
+
+@media only screen and (max-width: 1300px) {
+  nav {
+    position: static;
+    display: block;
+    z-index: 100;
+    margin: 0 10px;
+    font-size: 1.7rem;
+  }
+}
+nav {
+    position: relative;
+    font-family: "Helvetica";
+    font-size: 2rem;
+    margin: 30px 20px;
+}
+
+#root {
+  position: relative;
+  min-height: 100vh;
+}
