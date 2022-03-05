@@ -36,7 +36,7 @@ function Contact() {
           <div className="col-8 form-group pt-2 mx-auto">
             <textarea className="form-control" cols='30' rows='8' placeholder='Your message' name='message' />
           </div>
-          <div className='col-8 pt-3 mx-auto'>
+          <div className='col-8 pt-3 mx-auto d-flex justify-content-center'>
             <input type='submit' className='btn btn-info' value='Send Message'></input>
           </div>
         </div>

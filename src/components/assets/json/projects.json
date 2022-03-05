@@ -1,0 +1,46 @@
+{
+    "projects": [
+        {
+            "project": "Astronomy-Dashboard",
+            "imagePath": "https://gostargazing.co.uk/wp-content/themes/gostargazing2021/img/location-hero.jpg",
+            "site": "https://dazedchou.github.io/Astronomy-Dashboard/",
+            "repo": "https://github.com/DazedChou/Astronomy-Dashboard",
+            "description": "We created this website as a means to obtain all kinds of info on astronomy into one spot. The website includes information such as weather, visibility, cloud coverage, current moon phase, constellations that are visible at this time of year, upcoming meteor showers, and the latest news in astronomy."
+        },
+        {
+            "project": "Neighborgood!",
+            "imagePath": "https://img.itch.zone/aW1nLzI2NjQwNjUucG5n/original/PL%2Fzid.png",
+            "site": "https://hidden-forest-09542.herokuapp.com/",
+            "repo": "https://github.com/LaurenDarrimon/community-share",
+            "description": "Full-stack sharing and upcycling app where neighbors can post gently used items, comment, ask questions, and claim items from other members of their community. App uses MVC architectural structure, Bootstrap, Handlebars.js, Sequelize, and express-session."
+        },
+        {
+            "project": "Text Editor",
+            "imagePath": "https://codeinstitute.net/nl/wp-content/uploads/sites/6/2015/07/Learn-A-New-Programming-Language-scaled.jpeg",
+            "site": "https://boiling-inlet-17978.herokuapp.com/",
+            "repo": "https://github.com/DazedChou/Text-Editor",
+            "description": "This is a text editor that is a progressive web application. It utilizes indexedDb to store the content of the text editor, webpack to bundle assets, and a service worker to cache the assets."
+        },
+        {
+            "project": "Tech Blog",
+            "imagePath": "https://source.coveo.com/images/illustration-full.png",
+            "site": "https://desolate-journey-88322.herokuapp.com/",
+            "repo": "https://github.com/DazedChou/Tech-Blog",
+            "description": "This site is a blog where users can create posts and start discussions with other blog users. When the user is logged in, the user will have the ability to create a new post, edit the post, comment, and even delete the post."
+        },
+        {
+            "project": "Social Network API",
+            "imagePath": "https://media.sproutsocial.com/uploads/2015/04/What-is-an-API.png",
+            "video": "https://drive.google.com/file/d/13tTLd0BZNJGLhS29AjQNaURz0a0VUZk7/view",
+            "repo": "https://github.com/DazedChou/Social-Network-API",
+            "description": "This is a functional API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list."
+        },
+        {
+            "project": "Employee Tracker",
+            "imagePath": "https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FSF-FT-12-2021-U-LOL/-/raw/main/course-content/12-sql/homework/Assets/12-sql-homework-demo-01.png",
+            "video": "https://watch.screencastify.com/v/WT9Gg4KEYtw8xrDB3jAF",
+            "repo": "https://github.com/DazedChou/Employee-Tracker",
+            "description": "This command-line application allows the user to manage a company's database which includes creating, reading, updating, and deleting employees, departments, and roles , using Node.js, Inquirer, and MySQL."
+        }
+    ]
+}
