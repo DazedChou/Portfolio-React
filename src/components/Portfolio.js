@@ -52,8 +52,8 @@ function Portfolio() {
         <div style={{background:'#050f21', color:'#8bace8', height: '120vh'}} id='portfolio'>
             {/* <Header currentPage={currentPage} handlePageChange={handlePageChange}/> */}
             <div style={styles.header} >
-            <Header />
-            <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
+            <Header currentPage={currentPage} handlePageChange={handlePageChange} />
+            {/* <Nav currentPage={currentPage} handlePageChange={handlePageChange} /> */}
             </div>
             {renderPage() }
             {/* {result.map((repo) => (
