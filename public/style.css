@@ -6,6 +6,13 @@
     margin: 0 10px;
     font-size: 1.3rem;
   }
+  #aboutme {
+    position: static;
+    display: block;
+    z-index: 100;
+    margin: 0 10px;
+    font-size: 1.3rem;
+  }
 }
 
 @media only screen and (max-width: 1300px) {
@@ -16,10 +23,23 @@
     margin: 0 10px;
     font-size: 1.7rem;
   }
+  #aboutme {
+    position: static;
+    display: block;
+    z-index: 100;
+    margin: 0 10px;
+    font-size: 1.7rem;
+  }
 }
 nav {
     position: relative;
     font-family: "Helvetica";
+    font-size: 2rem;
+    margin: 30px 20px;
+}
+
+#aboutme {
+    position: relative;
     font-size: 2rem;
     margin: 30px 20px;
 }
